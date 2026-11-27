@@ -49,12 +49,12 @@ License: GPLv2 or later
 }
 
 /* ---------- fonts (local, assets/fonts) ---------- */
-@font-face { font-family: "Readex Pro"; font-style: normal; font-weight: 400; font-display: swap; src: url("/wp-content/themes/jaya9/assets/fonts/readex-pro-400.woff2") format("woff2"); }
-@font-face { font-family: "Readex Pro"; font-style: normal; font-weight: 500; font-display: swap; src: url("/wp-content/themes/jaya9/assets/fonts/readex-pro-500.woff2") format("woff2"); }
-@font-face { font-family: "Readex Pro"; font-style: normal; font-weight: 600; font-display: swap; src: url("/wp-content/themes/jaya9/assets/fonts/readex-pro-600.woff2") format("woff2"); }
-@font-face { font-family: "Readex Pro"; font-style: normal; font-weight: 700; font-display: swap; src: url("/wp-content/themes/jaya9/assets/fonts/readex-pro-700.woff2") format("woff2"); }
-@font-face { font-family: "Noto Sans Bengali"; font-style: normal; font-weight: 400; font-display: swap; src: url("/wp-content/themes/jaya9/assets/fonts/noto-bengali-taka-400.woff2") format("woff2"); unicode-range: U+09F3; }
-@font-face { font-family: "Noto Sans Bengali"; font-style: normal; font-weight: 700; font-display: swap; src: url("/wp-content/themes/jaya9/assets/fonts/noto-bengali-taka-700.woff2") format("woff2"); unicode-range: U+09F3; }
+@font-face { font-family: "Readex Pro"; font-style: normal; font-weight: 400; font-display: swap; src: url("../../themes/jaya9/assets/fonts/readex-pro-400.woff2") format("woff2"); }
+@font-face { font-family: "Readex Pro"; font-style: normal; font-weight: 500; font-display: swap; src: url("../../themes/jaya9/assets/fonts/readex-pro-500.woff2") format("woff2"); }
+@font-face { font-family: "Readex Pro"; font-style: normal; font-weight: 600; font-display: swap; src: url("../../themes/jaya9/assets/fonts/readex-pro-600.woff2") format("woff2"); }
+@font-face { font-family: "Readex Pro"; font-style: normal; font-weight: 700; font-display: swap; src: url("../../themes/jaya9/assets/fonts/readex-pro-700.woff2") format("woff2"); }
+@font-face { font-family: "Noto Sans Bengali"; font-style: normal; font-weight: 400; font-display: swap; src: url("../../themes/jaya9/assets/fonts/noto-bengali-taka-400.woff2") format("woff2"); unicode-range: U+09F3; }
+@font-face { font-family: "Noto Sans Bengali"; font-style: normal; font-weight: 700; font-display: swap; src: url("../../themes/jaya9/assets/fonts/noto-bengali-taka-700.woff2") format("woff2"); unicode-range: U+09F3; }
 
 /* ---------- reset ---------- */
 *,
