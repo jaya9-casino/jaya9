@@ -1,0 +1,46 @@
+# Jaya9 Satellite theme strings.
+msgid ""
+msgstr ""
+"Project-Id-Version: Jaya9 Satellite 1.0.0\n"
+"POT-Creation-Date: 2026-11-26\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Domain: jaya9\n"
+
+msgid "Back to home"
+msgstr ""
+
+msgid "Footer Menu 1"
+msgstr ""
+
+msgid "Footer Menu 2"
+msgstr ""
+
+msgid "Footer menu"
+msgstr ""
+
+msgid "Header Menu"
+msgstr ""
+
+msgid "Information"
+msgstr ""
+
+msgid "Jaya9 logo"
+msgstr ""
+
+msgid "Main menu"
+msgstr ""
+
+msgid "Page not found"
+msgstr ""
+
+msgid "Responsible gaming disclaimer"
+msgstr ""
+
+msgid "Table of Contents"
+msgstr ""
+
+msgid "The page you are looking for does not exist or has been moved."
+msgstr ""
+
